@@ -72,6 +72,7 @@ function Todo() {
                 <br/> <br/> <br/> <br/>
                 <button onClick={deleteAll} style={{ cursor:'pointer'}}>Delete All</button>
                 <br/>
+                <p>List of Tasks--</p>
                 <p>
                   <ul>
                     {
